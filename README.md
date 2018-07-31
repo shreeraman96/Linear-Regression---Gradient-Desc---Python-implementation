@@ -47,10 +47,10 @@ Implementing the mathematical model of linear regression with single feature in 
 #### Functions defined :
 
 ##### computecost 
-	###### Input - X,y,theta
-	###### Output - J
+	* Input - X,y,theta
+	* Output - J
 
 ##### gradientdesc
-	###### Input - X,y,theta,alpha,iterations
-	###### Output - theta,J_hist
+	* Input - X,y,theta,alpha,iterations
+	* Output - theta,J_hist
 	
